@@ -28,7 +28,7 @@ U know? this is my
 * [AIPRM for ChatGPT](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj)
 * [ChatGPT Writer](https://chrome.google.com/webstore/detail/chatgpt-writer-write-mail/pdnenlnelpdomajfejgapbdpmjkfpjkp/)
 
-### Tutoril
+### Tutorial
 * https://www.explainthis.io/zh-hant/chatgpt/guide
 
 ### Resources
