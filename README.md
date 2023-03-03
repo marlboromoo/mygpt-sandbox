@@ -19,9 +19,10 @@ U know? this is my
 * https://showgpt.co/
 
 ### Jailbreak
-* https://github.com/4as/ChatGPT-DeMod
-* https://gist.github.com/coolaj86/6f4f7b30129b0251f61fa7baaa881516 
 * https://www.jailbreakchat.com/ 
+* https://github.com/4as/ChatGPT-DeMod
+* https://github.com/tg12/gpt_jailbreak_status
+* https://gist.github.com/coolaj86/6f4f7b30129b0251f61fa7baaa881516 
 
 ### Extensions
 * [WebChatGPT](https://chrome.google.com/webstore/detail/webchatgpt-chatgpt-with-i/lpfemeioodjbpieminkklglpmhlngfcn) 
@@ -29,7 +30,7 @@ U know? this is my
 * [ChatGPT Writer](https://chrome.google.com/webstore/detail/chatgpt-writer-write-mail/pdnenlnelpdomajfejgapbdpmjkfpjkp/)
 
 ### Tutorial
-* https://www.explainthis.io/zh-hant/chatgpt/guide
+* https://www.explainthis.io/en/chatgpt/guide
 
 ### Resources
 * https://github.com/humanloop/awesome-chatgpt
