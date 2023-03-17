@@ -17,6 +17,7 @@ U know? this is my
 * https://github.com/f/awesome-chatgpt-prompts
 * https://github.com/lencx/ChatGPT
 * https://showgpt.co/
+* https://www.thepromptreport.com/
 
 ### Jailbreak
 * https://www.jailbreakchat.com/ 
